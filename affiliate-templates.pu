@@ -2,10 +2,10 @@
 * FHIR Base Template\n[[https://github.com/HL7/ig-template-base{https://github.com/HL7/ig-template-base} fhir.base.template]]
 ** HL7 IG Template\n[[https://github.com/HL7/ig-template-hl7{https://github.com/HL7/ig-template-hl7} hl7.base.template]]
 *** FHIR IG Template\n[[https://github.com/HL7/ig-template-fhir{https://github.com/HL7/ig-template-fhir} hl7.fhir.template]]
-**** HL7 IT Template\n[[https://github.com/HL7/ig-template-fhir{} hl7.it.fhir.template]]
-'** FHIR Affiliate IG Template\n[[hl7.affiliates.fhir.template]]
-** HL7 Belgium Template\n[[https://github.com/hl7-be/hl7.be.fhir.template{https://github.com/hl7-be/hl7.be.fhir.template} hl7.be.fhir.template]]
-** HL7 CH Template\n[[https://github.com/ahdis/ig-template{https://github.com/ahdis/ig-template} ch.ahdis.ig.template]]
+** FHIR Affiliate IG Template\n[[hl7.affiliates.fhir.template]]
+*** HL7 Belgium Template\n[[https://github.com/hl7-be/hl7.be.fhir.template{https://github.com/hl7-be/hl7.be.fhir.template} hl7.be.fhir.template]]
+*** HL7 CH Template\n[[https://github.com/ahdis/ig-template{https://github.com/ahdis/ig-template} ch.ahdis.ig.template]]
+*** HL7 IT Template\n[[https://github.com/HL7/ig-template-fhir{} hl7.it.fhir.template]]
 ** IHE Template\n[[https://github.com/IHE/ihe-ig-template{https://github.com/IHE/ihe-ig-template} ihe.fhir.template]]
 '*** Belgian eHealth  Federal template
 @endmindmap
