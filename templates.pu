@@ -7,5 +7,5 @@
 ** HL7 Belgium Template\n[[https://github.com/hl7-be/hl7.be.fhir.template{https://github.com/hl7-be/hl7.be.fhir.template} hl7.be.fhir.template]]
 ** HL7 CH Template\n[[https://github.com/ahdis/ig-template{https://github.com/ahdis/ig-template} ch.ahdis.ig.template]]
 ** IHE Template\n[[https://github.com/IHE/ihe-ig-template{https://github.com/IHE/ihe-ig-template} ihe.fhir.template]]
-'*** Belgian eHealth  Federal template
+** OpenHIE Template\n[[https://github.com/openhie/openhie-ig-template{https://github.com/openhie/openhie-ig-template} openhie.fhir.template]]
 @endmindmap 
