@@ -1,12 +1,26 @@
 @startmindmap
+<style>
+mindmapDiagram {
+  .green {
+    BackgroundColor lightgreen
+  }
+  .rose {
+    BackgroundColor #FFBBCC
+  }
+  .your_style_name {
+    BackgroundColor lightblue
+  }
+}
+</style>
+
 * FHIR Base Template\n[[https://github.com/HL7/ig-template-base{https://github.com/HL7/ig-template-base} fhir.base.template]]
 ** HL7 IG Template\n[[https://github.com/HL7/ig-template-hl7{https://github.com/HL7/ig-template-hl7} hl7.base.template]]
 *** FHIR IG Template\n[[https://github.com/HL7/ig-template-fhir{https://github.com/HL7/ig-template-fhir} hl7.fhir.template]]
-**** DaVinci FHIR IG Template\n[[https://github.com/HL7/ig-template-davinci{https://github.com/HL7/ig-template-davinci} hl7.davinci.template]]
-**** Gravity IG Template\n[[https://github.com/HL7/ig-template-gravity{https://github.com/HL7/ig-template-gravity} hl7.gravity.template]]
-**** Vulcan IG Template\n[[https://github.com/HL7/ig-template-vulcan{https://github.com/HL7/ig-template-vulcan} hl7.vulcan.template]]
+**** DaVinci FHIR IG Template\n[[https://github.com/HL7/ig-template-davinci{https://github.com/HL7/ig-template-davinci} hl7.davinci.template]] <<rose>>
+**** Gravity IG Template\n[[https://github.com/HL7/ig-template-gravity{https://github.com/HL7/ig-template-gravity} hl7.gravity.template]] <<rose>>
+**** Vulcan IG Template\n[[https://github.com/HL7/ig-template-vulcan{https://github.com/HL7/ig-template-vulcan} hl7.vulcan.template]] <<rose>>
 *** CDA IG Template\n[[https://github.com/HL7/ig-template-cda{https://github.com/HL7/ig-template-cda} hl7.cda.template]]
-*** UTG IG Template\n[[https://github.com/HL7/ig-template-utg{https://github.com/HL7/ig-template-utg} hl7.utg.template]]
+*** UTG IG Template\n[[https://github.com/HL7/ig-template-utg{https://github.com/HL7/ig-template-utg} hl7.utg.template]] <<rose>>
 ** Affiliate IG Template\n[[https://github.com/HL7/ig-template-affiliate{https://github.com/HL7/ig-template-affiliate} hl7.fhir.affiliate.template]]
 
 ** HL7 Belgium Template\n[[https://github.com/hl7-be/hl7.be.fhir.template{https://github.com/hl7-be/hl7.be.fhir.template} hl7.be.fhir.template]]
@@ -14,5 +28,5 @@
 ** IHE Template\n[[https://github.com/IHE/ihe-ig-template{https://github.com/IHE/ihe-ig-template} ihe.fhir.template]]
 ** OpenHIE Template\n[[https://github.com/openhie/openhie-ig-template{https://github.com/openhie/openhie-ig-template} openhie.fhir.template]]
 ** CQF Template\n[[https://github.com/cqframework/cqf-ig-template{https://github.com/cqframework/cqf-ig-template} cqf.fhir.template]]
-*** WHO IG Template\n[[https://github.com/WorldHealthOrganization/smart-ig{https://github.com/WorldHealthOrganization/smart-ig} who.fhir.template]]
+** WHO IG Template\n[[https://github.com/WorldHealthOrganization/smart-ig{https://github.com/WorldHealthOrganization/smart-ig} who.fhir.template]]
 @endmindmap 
